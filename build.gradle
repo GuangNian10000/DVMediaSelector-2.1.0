@@ -30,7 +30,7 @@ ext{
     compileSdkVersion = 29
     targetSdkVersion = 29
     minSdkVersion = 16
-    androidxVersion = '1.1.0'
+    androidxVersion = '1.2.0'
     appVersionCode = 1
     appVersionName = "1.0"
     libraryVersionCode = 1
